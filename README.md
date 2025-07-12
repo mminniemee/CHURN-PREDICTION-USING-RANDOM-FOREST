@@ -15,8 +15,11 @@ This project analyzes customer churn for a telecom company using Python and Tabl
   
 ## Files
 - `churn_predictions.csv`: Dataset with model predictions
-- `churn_rf_model.pkl`: Trained model file
+- `churn_model.pkl`: Trained model file
 - `feature_importance.csv`: Feature importance from Random Forest
+- `telcochurndata.csv`: raw dataset
+- `cleaned_churndata.csv`: preprocessed data
+
 
 ## 🛠️ Tools Used
 Python, Pandas, Scikit-learn, Tableau
