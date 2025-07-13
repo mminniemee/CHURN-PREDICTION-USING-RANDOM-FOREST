@@ -1,5 +1,5 @@
 # CHURN-PREDICTION-USING-RANDOM-FOREST
-This project analyzes customer churn for a telecom company using Python and Tableau. I built a predictive ML model and created an interactive Tableau dashboard to visualize insights.
+This project analyzes customer churn for a telecom company using Python and Tableau. I built a predictive ML model and created an interactive Tableau dashboard to visualize insights. Find the rest of the files in the file branches.
 
 ## Project Highlights
 
